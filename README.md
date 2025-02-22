@@ -60,6 +60,6 @@ Push To Talk eliminates the hassle of managing microphone settings for each app.
 For support or inquiries, contact us at:
 
 - **Email**: [phonetettey@gmail.com](mailto:phonetettey@gmail.com)  
-- **Discord**: [Join our Discord](https://discord.com/invite/jRnaeTJ)  
+- **Discord**: [Heaven](https://discord.com/invite/jRnaeTJ)  
 - **GitHub**: [PushToTalk Repository](https://github.com/tetteykn/PushToTalk)  
-- **YouTube**: [Our Channel](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)  
+- **YouTube**: [TetteyKn](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)  
