@@ -26,10 +26,6 @@
 - Clean and intuitive design for easy navigation.  
 - System tray integration for quick access.  
 
-### System Integration
-- Auto-start with Windows for immediate access.  
-- Minimize to tray functionality for a clutter-free desktop experience.  
-
 ---
 
 ## Trial Information
