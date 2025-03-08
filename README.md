@@ -1,42 +1,58 @@
-# Mouse Mapper – Your Ultimate Mouse Button Mapping Tool
+# Push To Talk – Your Universal Microphone Control Tool
 
-**Mouse Mapper** is an intuitive and feature-rich application that allows you to customize mouse buttons by mapping them to any keyboard key. Whether you're a gamer looking to optimize your controls or a professional seeking to streamline your workflow, this app enables you to configure and manage your mouse inputs with ease, ensuring enhanced performance across all your applications and games.
+**Push To Talk** is an intuitive and feature-rich application that offers comprehensive microphone control across all your apps and games. Whether you are a gamer, streamer, or a professional, this app enables you to configure and manage your microphone with ease, ensuring consistent performance without the need for app-specific settings.
 
 ---
 
 ## Key Features
 
-### Custom Mouse Button Mapping
-- **Map Mouse Buttons**: Assign any mouse button (e.g., Mouse Button 4 and 5) to any keyboard key.  
-- **Process Picker UI**: Easily select the target application by process name.  
+### Multiple Control Modes
+- **Push to Talk (PTT)**: Hold to speak  
+- **Push to Mute (PTM)**: Hold to mute  
+- **Toggle Mode**: Switch between muted and unmuted states  
 
 ### Customizable Hotkeys
-- Assign unique hotkeys for each mapping.  
-- Support for both single keys and key combinations.  
-- Global hotkey recognition for all applications.  
+- Assign unique hotkeys for each control mode  
+- Support for both single keys and key combinations  
+- Global hotkey recognition for all applications  
 
 ### Profile Management
-- Save and load entire configuration profiles.  
-- Seamlessly switch between different mappings without reconfiguration.  
+- Save and load entire configuration profiles  
+- Seamlessly switch between different hotkey and overlay settings  
+- Quickly adapt to different use cases without reconfiguration  
 
-### Full-Screen and Borderless Mode Support
-- Enjoy compatibility with both full-screen and borderless windowed applications.  
+### Advanced Microphone Management
+- Precise microphone volume control  
+- Manage multiple microphones at once  
+- Option to control all microphones simultaneously  
 
 ### User-Friendly Interface
-- Clean and intuitive design for easy navigation.  
-- System tray integration for quick access.  
+- Clean and intuitive design  
+- Easy-to-use controls with system tray integration  
+
+### System Integration
+- Auto-start with Windows  
+- Minimize to tray functionality  
+- Sound feedback for state changes  
+
+### Overlay Feature
+- Displays microphone state visually, even in minimized or borderless apps  
+  *Note: Doesn't work in fullscreen mode*  
+- Always on top of other windows  
+- Customizable overlay color and size  
+- Easily saveable with profile management  
 
 ---
 
 ## Trial Information
-Mouse Mapper offers a **20-day free trial** during which users can access all features of the app without limitations.  
-After the trial period, the app will no longer function unless a **one-time purchase of $2** is made to activate the app permanently.  
+Push To Talk offers a **7-day free trial** during which users can access all features of the app without any limitations.  
+After the trial period, the app will no longer function unless a **one-time purchase of $5** is made to activate the app permanently.  
 This ensures that users can fully experience the app's capabilities before deciding to purchase.
 
 ---
 
-## Why Choose Mouse Mapper?
-Mouse Mapper eliminates the frustration of limited mouse button functionality in games and applications that do not support advanced mouse inputs. With a single, unified mapping tool, you can enhance your gaming experience and improve your productivity without the hassle of reconfiguration.
+## Why Choose Push To Talk?
+Push To Talk eliminates the hassle of managing microphone settings for each app. With a single, unified control scheme, you can switch effortlessly between gaming, streaming, or professional work without any need for reconfiguration.
 
 ---
 
@@ -44,6 +60,6 @@ Mouse Mapper eliminates the frustration of limited mouse button functionality in
 For support or inquiries, contact us at:
 
 - **Email**: [phonetettey@gmail.com](mailto:phonetettey@gmail.com)  
-- **Discord**: [Heaven](https://discord.com/invite/jRnaeTJ)  
-- **GitHub**: [MouseMapper Repository](https://github.com/tetteykn/MouseMapper)  
-- **YouTube**: [TetteyKn](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)  
+- **Discord**: [Join our Discord](https://discord.com/invite/jRnaeTJ)  
+- **GitHub**: [PushToTalk Repository](https://github.com/tetteykn/PushToTalk)  
+- **YouTube**: [Our Channel](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)  
