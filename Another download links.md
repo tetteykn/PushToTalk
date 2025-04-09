@@ -2,8 +2,8 @@
 
 ## Available Versions
 
-### 64-bit Version
-[Download PushToTalkSetup-x64.msi](https://tetteyknstorage.blob.core.windows.net/pushtotalk/x64/1.0.2/PushToTalkSetup-x64.msi)
+### Github direct link
+[Download PushToTalkSetup-x86.msi]([https://tetteyknstorage.blob.core.windows.net/pushtotalk/x64/1.0.2/PushToTalkSetup-x64.msi](https://github.com/tetteykn/PushToTalk/raw/refs/heads/main/x86/1.0.3/PushToTalkSetup-x86.msi))
 
 ### 32-bit Version
 [Download PushToTalkSetup-x86.msi](https://tetteyknstorage.blob.core.windows.net/pushtotalk/x86/1.0.2/PushToTalkSetup-x86.msi)
