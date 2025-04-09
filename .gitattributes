@@ -1,0 +1,3 @@
+*.msi filter=lfs diff=lfs merge=lfs -text
+x64/1.0.2/PushToTalkSetup-x64.msi filter=lfs diff=lfs merge=lfs -text
+x86/1.0.2/PushToTalkSetup-x86.msi filter=lfs diff=lfs merge=lfs -text
