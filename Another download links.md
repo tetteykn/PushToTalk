@@ -3,10 +3,10 @@
 ## Available Versions
 
 ### Github direct link
-[Download PushToTalkSetup-x86.msi](https://github.com/tetteykn/PushToTalk/raw/refs/heads/main/x86/1.0.3/PushToTalkSetup-x86.msi)
+[Download PushToTalkSetup-x86.msi](https://media.githubusercontent.com/media/tetteykn/PushToTalk/refs/heads/main/x86/1.0.3/PushToTalkSetup-x86.msi)
 
 ### Media fire
-[Download PushToTalkSetup-x86.msi](https://tetteyknstorage.blob.core.windows.net/pushtotalk/x86/1.0.2/PushToTalkSetup-x86.msi)
+[Download PushToTalkSetup-x86.msi](https://www.mediafire.com/file/msulmvce6ll0mml/PushToTalkSetup-x86.msi/file)
 
 ---
 
