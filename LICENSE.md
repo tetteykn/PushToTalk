@@ -1,6 +1,6 @@
 # Push To Talk — Software License Agreement
 
-> **Copyright © 2024 TetteyKn. All rights reserved.**
+> **Copyright © 2025 TetteyKn. All rights reserved.**
 
 ---
 
