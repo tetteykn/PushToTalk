@@ -8,14 +8,16 @@
 
 1. [License Grant](#1-license-grant)
 2. [Commercial Terms](#2-commercial-terms)
-3. [Restrictions](#3-restrictions)
-4. [Version Compatibility and License Migration](#4-version-compatibility-and-license-migration)
-5. [Technical Support](#5-technical-support)
-6. [Data Collection and Privacy](#6-data-collection-and-privacy)
-7. [Refund Policy](#7-refund-policy)
-8. [Warranty and Disclaimer](#8-warranty-and-disclaimer)
-9. [Ownership and Copyright](#9-ownership-and-copyright)
-10. [Termination](#10-termination)
+3. [License Transfer Policy](#3-license-transfer-policy)
+4. [Restrictions](#4-restrictions)
+5. [Version Compatibility and License Migration](#5-version-compatibility-and-license-migration)
+6. [Technical Support](#6-technical-support)
+7. [Activation, Offline Use, and License Recovery](#7-activation-offline-use-and-license-recovery)
+8. [Data Collection and Privacy](#8-data-collection-and-privacy)
+9. [Refund Policy](#9-refund-policy)
+10. [Warranty and Disclaimer](#10-warranty-and-disclaimer)
+11. [Ownership and Copyright](#11-ownership-and-copyright)
+12. [Termination](#12-termination)
 
 ---
 
@@ -27,97 +29,143 @@ This software is licensed, not sold. This Software License Agreement (the **"Lic
 
 ## 2. Commercial Terms
 
-| Term | Detail |
-|------|--------|
-| **Device Limit** | Each license is valid for **ONE (1)** computer/device only |
-| **Binding** | The activation code is permanently bound to the device on which it is first activated |
-| **Transferability** | The license is non-transferable between devices |
-| **Multiple Devices** | Separate licenses must be purchased for use on multiple devices |
-| **Duration** | Once activated, the license provides **permanent (lifetime)** access on the activated device |
+| Term                 | Detail                                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------- |
+| **Device Limit**     | Each license may be active on **ONE (1)** computer/device at a time                         |
+| **Binding**          | The activation code may be associated with a device for license verification purposes       |
+| **Transferability**  | The license may be transferred to a replacement device in accordance with Section 3         |
+| **Multiple Devices** | Separate licenses are required for simultaneous use on multiple devices                     |
+| **Duration**         | Once activated, the license provides **permanent (lifetime)** access on the licensed device |
 
 ---
 
-## 3. Restrictions
+## 3. License Transfer Policy
+
+The purchaser may request to transfer their license to a replacement device.
+
+The Software author may require reasonable verification of ownership before approving a transfer request, including proof of purchase, activation information, or other verification details.
+
+A transferred license may be deactivated on the previously activated device. A single license may only be actively used on one device at any given time.
+
+The Software author reserves the right to deny or limit repeated transfer requests where abuse, unauthorized sharing, fraud, or attempts to circumvent licensing restrictions are suspected.
+
+---
+
+## 4. Restrictions
 
 You may **NOT**:
 
-- Transfer the license or activation code to another device
-- Attempt to use the same activation code on multiple devices
-- Reverse engineer, decompile, or disassemble the Software
-- Redistribute, sell, rent, lease, or sublicense the Software
-- Modify or create derivative works of the Software
+* Use a single license simultaneously on multiple devices
+* Reverse engineer, decompile, or disassemble the Software
+* Redistribute, sell, rent, lease, or sublicense the Software
+* Modify or create derivative works of the Software
+* Circumvent, disable, or interfere with the Software's licensing mechanisms
 
 ---
 
-## 4. Version Compatibility and License Migration
+## 5. Version Compatibility and License Migration
 
-### 4.1 Version-Specific Activation
+### 5.1 Version-Specific Activation
 
-Activation codes are issued for a specific version or version range of the Software. The author does not guarantee that an activation code issued for one version of the Software will remain valid or functional in future versions. Purchasers are advised to take note of the version for which their activation code was issued.
+Activation codes may be issued for a specific version or version range of the Software. The author does not guarantee that an activation code issued for one version will remain valid or functional in future versions. Purchasers are encouraged to keep a record of the version for which their activation code was issued.
 
-### 4.2 Retention of Prior Versions
+### 5.2 Retention of Prior Versions
 
-As older versions of the Software may not remain publicly available for download following the release of a newer version, purchasers are **strongly advised to retain a local copy** of the version against which their activation code was originally issued. This ensures continued access to the Software in the event that a future version introduces activation changes that render the existing code incompatible.
+As older versions of the Software may not remain publicly available after newer releases are published, purchasers are strongly encouraged to retain a local copy of the version for which their activation code was originally issued.
 
 > [!TIP]
-> Keep a local backup of the installer for the version you activated. If a future update breaks compatibility with your activation code, your saved copy ensures uninterrupted access while a migration is processed.
+> Keep a local backup of the installer and activation key for the version you activated. This helps ensure uninterrupted access if future versions introduce activation changes or compatibility differences.
 
-### 4.3 License Migration
+### 5.3 License Migration
 
-In the event that a purchaser's activation code becomes incompatible with a newer version of the Software, the purchaser may request a **license migration** to obtain an updated activation code compatible with the new version.
+If an activation code becomes incompatible with a newer version of the Software, the purchaser may request a **license migration** to obtain an updated activation code compatible with the newer version.
 
-Migration requests must be submitted to the support team via the contact details provided in [Section 5](#5-technical-support). Migration is offered at the sole discretion of the Software author and is subject to verification of the original purchase. The author reserves the right to impose reasonable conditions on the migration process, including but not limited to identity and purchase verification requirements.
+Migration requests must be submitted through the support channels listed in Section 6. Migration is offered at the sole discretion of the Software author and may require verification of the original purchase.
 
-### 4.4 No Guarantee of Migration Availability
+### 5.4 No Guarantee of Migration Availability
 
-While the author will make reasonable efforts to accommodate migration requests, **no guarantee is made** that migration will be available for all versions or under all circumstances. Purchasers are encouraged to contact support promptly upon encountering compatibility issues, as migration eligibility may be subject to time or version constraints.
-
----
-
-## 5. Technical Support
-
-- Technical support is provided on a **per-license** basis
-- Support is available through the specified **Discord** channel
-- **Email:** phonetettey@gmail.com
+While reasonable efforts will be made to accommodate migration requests, no guarantee is made that migration will be available for every version or circumstance.
 
 ---
 
-## 6. Data Collection and Privacy
+## 6. Technical Support
 
-| Aspect | Details |
-|--------|---------|
-| **Collected Data** | Certain device-specific information required for activation and license verification |
-| **Purpose** | Exclusively to verify license legitimacy, ensure proper activation, and prevent unauthorized use |
-| **Storage** | Stored locally on your device or securely transmitted to our servers as part of the activation process |
-| **Data Sharing** | Collected data will **NOT** be shared with any third parties under any circumstances |
-| **Your Rights** | By using the Software, you consent to the collection and use of this data as outlined in this agreement |
+* Technical support is provided on a **per-license** basis.
+* Support is available through the specified **Discord** channel.
+* **Email:** [phonetettey@gmail.com](mailto:phonetettey@gmail.com)
 
 ---
 
-## 7. Refund Policy
+## 7. Activation, Offline Use, and License Recovery
+
+### 7.1 Offline Usage
+
+Once the Software has been properly activated, it may be used without a continuous Internet connection.
+
+The Software does not require ongoing communication with the author's servers to continue functioning after activation.
+
+### 7.2 Offline Activation Capability
+
+Purchasers may activate and recover access to their Software using their issued activation key without permanent reliance on the author's servers.
+
+The activation key serves as the purchaser's proof of license ownership and should be retained in a safe location.
+
+### 7.3 Automatic Activation Convenience
+
+For user convenience, the Software may automatically verify and reactivate a valid license when launched on an authorized device, including after a Windows reinstallation, system reset, or similar event.
+
+This automatic process is provided as a convenience feature and is not intended to replace the purchaser's responsibility to retain their activation key.
+
+### 7.4 Retention of Activation Key
+
+Purchasers are strongly encouraged to securely store their activation key.
+
+While the author intends to maintain activation services, no guarantee is made that servers, online activation systems, or automated license recovery services will remain available indefinitely.
+
+Retaining a copy of the activation key helps ensure future access to the Software should online services become unavailable.
+
+---
+
+## 8. Data Collection and Privacy
+
+| Aspect             | Details                                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Collected Data** | Certain device-specific information required for activation and license verification                    |
+| **Purpose**        | Exclusively to verify license legitimacy, ensure proper activation, and prevent unauthorized use        |
+| **Storage**        | Stored locally on your device or securely transmitted to our servers as part of the activation process  |
+| **Data Sharing**   | Collected data will **NOT** be shared with any third parties under any circumstances                    |
+| **Your Rights**    | By using the Software, you consent to the collection and use of this data as outlined in this agreement |
+
+---
+
+## 9. Refund Policy
 
 > [!IMPORTANT]
 > **No refunds will be issued** after the activation code has been generated and provided to the purchaser.
 
 ---
 
-## 8. Warranty and Disclaimer
+## 10. Warranty and Disclaimer
 
 > [!WARNING]
-> The Software is provided **"as is"** without warranty of any kind, either express or implied. The author of the Software does not warrant that the Software will meet your requirements or that its operation will be uninterrupted or error-free.
+> The Software is provided **"as is"** without warranty of any kind, either express or implied. The author does not warrant that the Software will meet your requirements or that its operation will be uninterrupted or error-free.
 
 ---
 
-## 9. Ownership and Copyright
+## 11. Ownership and Copyright
 
-All title, ownership, and intellectual property rights in and to the Software remain with the Software author. The Software is protected by copyright laws and international copyright treaties.
+All title, ownership, and intellectual property rights in and to the Software remain with the Software author.
 
----
-
-## 10. Termination
-
-This License is effective until terminated. Your rights under this License will terminate automatically **without notice** if you fail to comply with any term(s) of this License.
+The Software is protected by copyright laws and international copyright treaties.
 
 ---
 
-*Push To Talk Software License Agreement — Copyright © 2024 TetteyKn. All rights reserved.*
+## 12. Termination
+
+This License is effective until terminated.
+
+Your rights under this License will terminate automatically **without notice** if you fail to comply with any term of this License.
+
+---
+
+*Push To Talk Software License Agreement — Copyright © 2025 TetteyKn. All rights reserved.*
