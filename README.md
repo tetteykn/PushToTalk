@@ -92,7 +92,7 @@ Push To Talk eliminates the hassle of managing microphone settings for each app.
 ## Support & Contact
 For support or inquiries, contact us at:
 
-- **Email**: [phonetettey@gmail.com](mailto:phonetettey@gmail.com)
+- **Email**: [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)
 - **Discord**: [Join our Discord](https://discord.com/invite/jRnaeTJ)
 - **GitHub**: [PushToTalk Repository](https://github.com/tetteykn/PushToTalk)
 - **YouTube**: [Our Channel](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
