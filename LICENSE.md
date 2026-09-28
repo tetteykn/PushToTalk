@@ -92,7 +92,7 @@ While reasonable efforts will be made to accommodate migration requests, no guar
 
 * Technical support is provided on a **per-license** basis.
 * Support is available through the specified **Discord** channel.
-* **Email:** [phonetettey@gmail.com](mailto:phonetettey@gmail.com)
+* **Email:** [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)
 
 ---
 
