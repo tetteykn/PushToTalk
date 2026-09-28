@@ -141,7 +141,9 @@ Retaining a copy of the activation key helps ensure future access to the Softwar
 ## 9. Refund Policy
 
 > [!IMPORTANT]
-> **No refunds will be issued** after the activation code has been generated and provided to the purchaser.
+> **No refunds will be issued** once an activation code has been generated and provided to the purchaser.
+
+**Reason:** Activation codes are device-bound and remain valid for offline use without requiring communication with our servers. Once an activation code has been issued, the associated license cannot be remotely revoked or withdrawn.
 
 ---
 
