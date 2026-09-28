@@ -1,4 +1,4 @@
-# Push To Talk — Software License Agreement
+# PushToTalk — Software License Agreement
 
 > **Copyright © 2025 TetteyKn. All rights reserved.**
 
@@ -33,7 +33,7 @@ This software is licensed, not sold. This Software License Agreement (the **"Lic
 | -------------------- | ------------------------------------------------------------------------------------------- |
 | **Device Limit**     | Each license may be active on **ONE (1)** computer/device at a time                         |
 | **Binding**          | The activation code may be associated with a device for license verification purposes       |
-| **Transferability**  | The license may be transferred to a replacement device in accordance with Section 3         |
+| **Transferability**  | The license is locked to the originally activated device and is **non-transferable**        |
 | **Multiple Devices** | Separate licenses are required for simultaneous use on multiple devices                     |
 | **Duration**         | Once activated, the license provides **permanent (lifetime)** access on the licensed device |
 
@@ -41,13 +41,11 @@ This software is licensed, not sold. This Software License Agreement (the **"Lic
 
 ## 3. License Transfer Policy
 
-The purchaser may request to transfer their license to a replacement device.
+The license is locked to the device on which it is first activated and is **non-transferable**.
 
-The Software author may require reasonable verification of ownership before approving a transfer request, including proof of purchase, activation information, or other verification details.
+Because activation codes are device-bound and validate offline, an issued code cannot be revoked or disabled once delivered. A transfer could therefore never remove the original device's ability to use the Software, allowing a single license to cover two computers.
 
-A transferred license may be deactivated on the previously activated device. A single license may only be actively used on one device at any given time.
-
-The Software author reserves the right to deny or limit repeated transfer requests where abuse, unauthorized sharing, fraud, or attempts to circumvent licensing restrictions are suspected.
+No transfer requests will be approved, and no replacement activation code will be issued for a different device.
 
 ---
 
@@ -166,8 +164,8 @@ The Software is protected by copyright laws and international copyright treaties
 
 This License is effective until terminated.
 
-Your rights under this License will terminate automatically **without notice** if you fail to comply with any term of this License.
+Your right to use the Software terminates automatically without notice if you fail to comply with any term of this License. Termination ends the license grant only; it does not imply any remote deactivation of the Software.
 
 ---
 
-*Push To Talk Software License Agreement — Copyright © 2025 TetteyKn. All rights reserved.*
+*PushToTalk Software License Agreement — Copyright © 2025 TetteyKn. All rights reserved.*
