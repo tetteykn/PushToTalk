@@ -92,7 +92,7 @@ Push To Talk eliminates the hassle of managing microphone settings for each app.
 ## Support & Contact
 For support or inquiries, contact us at:
 
-- **Email**: [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)
+- **Store**: [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFXFLM1PQ6VR)
 - **Discord**: [Join our Discord](https://discord.com/invite/jRnaeTJ)
-- **GitHub**: [PushToTalk Repository](https://github.com/tetteykn/PushToTalk)
 - **YouTube**: [Our Channel](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+- **Email**: [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)
