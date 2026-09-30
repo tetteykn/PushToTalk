@@ -77,7 +77,7 @@ A background watchdog that re-applies the correct mute state every 500ms, ensuri
 
 ---
 
-## Trial Information
+## 💳 Pricing & Trial
 Push To Talk offers a **free trial** during which users can access all features of the app without any limitations.
 After the trial period, the app will no longer function unless a **one-time purchase** is made to activate the app permanently.
 This ensures that users can fully experience the app's capabilities before deciding to purchase.
@@ -89,10 +89,12 @@ Push To Talk eliminates the hassle of managing microphone settings for each app.
 
 ---
 
-## Support & Contact
-For support or inquiries, contact us at:
+## 📞 Support & Contact
 
-- **Store**: [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFXFLM1PQ6VR)
-- **Discord**: [Join our Discord](https://discord.com/invite/jRnaeTJ)
-- **YouTube**: [Our Channel](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
-- **Email**: [zouaouidtech@gmail.com](mailto:zouaouidtech@gmail.com)
+**Email** — zouaouidtech@gmail.com
+
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_Now-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/XPFFXFLM1PQ6VR)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/jRnaeTJ)
