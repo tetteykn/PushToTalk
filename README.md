@@ -77,15 +77,19 @@ A background watchdog that re-applies the correct mute state every 500ms, ensuri
 
 ---
 
-## 💳 Pricing & Trial
-Push To Talk offers a **free trial** during which users can access all features of the app without any limitations.
-After the trial period, the app will no longer function unless a **one-time purchase** is made to activate the app permanently.
-This ensures that users can fully experience the app's capabilities before deciding to purchase.
+## Why Choose Push To Talk?
+Push To Talk eliminates the hassle of managing microphone settings for each app. With a single, unified control scheme, you can switch effortlessly between gaming, streaming, or professional work without any need for reconfiguration. The Profile Auto-Switch feature takes this even further by automatically adapting your entire configuration the moment you switch between applications.
 
 ---
 
-## Why Choose Push To Talk?
-Push To Talk eliminates the hassle of managing microphone settings for each app. With a single, unified control scheme, you can switch effortlessly between gaming, streaming, or professional work without any need for reconfiguration. The Profile Auto-Switch feature takes this even further by automatically adapting your entire configuration the moment you switch between applications.
+## 💳 Pricing & Trial
+
+- Push To Talk includes a **free trial** with full functionality.
+- After the trial period, a **one-time purchase** unlocks permanent access.
+- **No subscriptions. No recurring fees.**
+- **Online recognition**: If the device is connected to the internet and has a valid previous purchase, Push To Talk will automatically activate — no serial key entry required.
+- **Offline or server unavailable**: Users can enter the serial key manually to activate the Software.
+- Lifetime access on the activated device.
 
 ---
 
