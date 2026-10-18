@@ -1,6 +1,6 @@
-# PushToTalk — Software License Agreement
+# Push To Talk — Software License Agreement
 
-> **Copyright © 2025 TetteyKn. All rights reserved.**
+> **Copyright © 2026 Zouaouid Tech. All rights reserved.**
 
 ---
 
@@ -128,7 +128,7 @@ Retaining a copy of the activation key helps ensure future access to the Softwar
 
 | Aspect             | Details                                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------- |
-| **Collected Data** | Certain device-specific information required for activation and license verification                    |
+| **Collected Data** | The display name you type on first run (any name you choose, not your legal name), a single device identifier derived from standard hardware identifiers reported by Windows, your activation key, and the date of your registration and activation |
 | **Purpose**        | Exclusively to verify license legitimacy, ensure proper activation, and prevent unauthorized use        |
 | **Storage**        | Stored locally on your device or securely transmitted to our servers as part of the activation process  |
 | **Data Sharing**   | Collected data will **NOT** be shared with any third parties under any circumstances                    |
